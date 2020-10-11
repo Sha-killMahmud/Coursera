@@ -1,8 +1,6 @@
 <!DOCTYPE html>
 <html>
 <head>
-
-	<title>Coursera's HTML CSS-and Javascript for Web Developers</title>
 </head>
 <body>
 	<h1>Webpage links to Coursera's HTML CSS-and Javascript for Web Developers</h1>
